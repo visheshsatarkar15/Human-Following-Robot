@@ -101,5 +101,5 @@ Increase or decrease these values based on your robot's motor speed, battery vol
 
 ## Author
 
-Created by Vishesh Satarkar.
+Created by Vishesh Satarkar.<br>
 GitHub Handle - visheshsatarkar15
