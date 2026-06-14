@@ -24,16 +24,16 @@ Video - <video controls src="Demo Video.mp4" title="Title"></video>
 Component - Quantity -> Purpose
 
 
-1] Arduino Uno -- 1 --> Main controller 
-2] L298N motor driver shield -- 1 --> Controls DC motors 
-3] DC geared motors -- 4 --> Robot movement 
-4] Robot chassis -- 1 --> Mechanical frame 
-5] HC-SR04 ultrasonic sensor -- 1 --> Measures front distance 
-6] IR sensors -- 2 --> Detects left/right target movement 
-7] Battery pack -- 1 --> Robot power supply 
-8] Jumper wires -- As needed --> Connections 
-9] Wheels -- 4 --> Movement 
-10] Switch -- 1 --> Power control 
+1] Arduino Uno -- 1 --> Main controller <br>
+2] L298N motor driver shield -- 1 --> Controls DC motors <br>
+3] DC geared motors -- 4 --> Robot movement <br>
+4] Robot chassis -- 1 --> Mechanical frame <br>
+5] HC-SR04 ultrasonic sensor -- 1 --> Measures front distance <br>
+6] IR sensors -- 2 --> Detects left/right target movement <br>
+7] Battery pack -- 1 --> Robot power supply <br>
+8] Jumper wires -- As needed --> Connections <br>
+9] Wheels -- 4 --> Movement <br>
+10] Switch -- 1 --> Power control <br>
 
 ## Working Principle
 
