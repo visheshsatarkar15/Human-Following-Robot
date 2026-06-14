@@ -15,10 +15,6 @@ This project demonstrates the basic working principle of a human-following robot
 - Uses commonly available Arduino components
 - Beginner-friendly circuit and code
 
-## Demo
-
-Video - <video controls src="Demo Video.mp4" title="Title"></video>
-
 ## Components Required
 
 Component - Quantity -> Purpose
@@ -45,9 +41,6 @@ The robot uses an ultrasonic sensor to measure the distance between itself and t
 - If the person moves right, the right IR sensor helps the robot turn right.
 - If no person or object is detected in range, the robot stops.
 
-## Circuit Connections
-
-Circuit Diagram - ![alt text](<Circuit Diagram.jpeg>)
 
 ## How to Build
 
@@ -59,17 +52,7 @@ Circuit Diagram - ![alt text](<Circuit Diagram.jpeg>)
 6. Upload the Arduino code.
 7. Power the robot and test it in an open area.
 8. Adjust the distance and speed values in the code if needed.
-
-## Arduino Code
-
-The main Arduino sketch is available here:
-
-[text](<../../../../../../../../PROJECTS/HUMAN FOLLOWING ROBOT/Arduinocode.ino.txt>)
-
-
-
-Increase or decrease these values based on your robot's motor speed, battery voltage, and sensor placement.
-
+   
 
 ## Calibration Tips
 
